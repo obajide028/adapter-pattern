@@ -1,4 +1,4 @@
-package adapter.interfaces;
+package interfaces;
 
 public interface Turkey {
     void gobble();

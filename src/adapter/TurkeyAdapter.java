@@ -1,7 +1,7 @@
-package adapter.adapter;
+package adapter;
 
-import adapter.interfaces.Duck;
-import adapter.interfaces.Turkey;
+import interfaces.Duck;
+import interfaces.Turkey;
 
 public class TurkeyAdapter implements Duck {
 

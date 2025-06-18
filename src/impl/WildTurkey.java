@@ -1,6 +1,6 @@
-package adapter.impl;
+package impl;
 
-import adapter.interfaces.Turkey;
+import interfaces.Turkey;
 
 public class WildTurkey implements Turkey {
     @Override

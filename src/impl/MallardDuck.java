@@ -1,6 +1,6 @@
-package adapter.impl;
+package impl;
 
-import adapter.interfaces.Duck;
+import interfaces.Duck;
 
 public class MallardDuck implements Duck {
 

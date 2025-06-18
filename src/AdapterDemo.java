@@ -1,9 +1,7 @@
-package adapter;
-
-import adapter.adapter.TurkeyAdapter;
-import adapter.impl.MallardDuck;
-import adapter.impl.WildTurkey;
-import adapter.interfaces.Duck;
+import adapter.TurkeyAdapter;
+import impl.MallardDuck;
+import impl.WildTurkey;
+import interfaces.Duck;
 
 public class AdapterDemo {
     public static void main(String[] args) {
